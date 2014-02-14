@@ -14,12 +14,12 @@ bug-reports: mailto:jmillikin@gmail.com
 synopsis: Looms which use Pandoc to parse and produce a variety of formats.
 
 source-repository head
-  type: bazaar
-  location: https://john-millikin.com/branches/anansi-pandoc/0.1/
+  type: git
+  location: https://john-millikin.com/code/anansi-pandoc/
 
 source-repository this
-  type: bazaar
-  location: https://john-millikin.com/branches/anansi-pandoc/0.1/
+  type: git
+  location: https://john-millikin.com/code/anansi-pandoc/
   tag: anansi-pandoc_0.1.1
 
 library
